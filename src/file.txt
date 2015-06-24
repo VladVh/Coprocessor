@@ -1,0 +1,6 @@
+Fild 16
+Fild -5
+Fild 0
+Swap
+Division
+Fistp
